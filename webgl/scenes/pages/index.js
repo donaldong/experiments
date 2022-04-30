@@ -11,6 +11,8 @@ export default function Home() {
       <Link href="/scenes/box-demo-3"><a>Box Demo Scene 3: OrbitControls, Keyboard</a></Link>
       <br/>
       <Link href="/scenes/ascii-donut"><a>A donut rendered in ascii</a></Link>
+      <br/>
+      <Link href="/scenes/stacy"><a>Animated model: Stacy</a></Link>
     </div>
   );
 };
