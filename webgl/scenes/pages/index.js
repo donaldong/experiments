@@ -7,6 +7,8 @@ export default function Home() {
       <Link href="/scenes/box-demo"><a>Box Demo Scene</a></Link>
       <br/>
       <Link href="/scenes/box-demo-2"><a>Box Demo Scene 2: Camera</a></Link>
+      <br/>
+      <Link href="/scenes/box-demo-3"><a>Box Demo Scene 3: OrbitControls, Keyboard</a></Link>
     </div>
   );
 };
