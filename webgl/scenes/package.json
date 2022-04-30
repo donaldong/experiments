@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@react-spring/three": "^9.4.4",
     "@react-three/drei": "^9.6.0",
     "@react-three/fiber": "^8.0.12",
     "next": "latest",
